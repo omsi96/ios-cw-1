@@ -12,11 +12,6 @@
 
 
 [![Github Steps](https://yt-embed.herokuapp.com/embed?v=JTVgnIcyuG0)](https://www.youtube.com/watch?v=JTVgnIcyuG0 "Installing Github")
-<div>
-  <a href="https://www.youtube.com/watch?v=JTVgnIcyuG0">
-    <img src="http://img.youtube.com/vi/JTVgnIcyuG0/0.jpg"
-  </a>
-</div>
 
 ...
 ### خطوات تمرين ١
